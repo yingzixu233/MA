@@ -1,10 +1,3 @@
-import matplotlib.pyplot as plt
-import HousePlan
-from Modules import TubeModule
-from Modules import BasicModule
-from Modules import ConjunctiveModule
-from Modules import CorridorModule
-
 import module_extractor
 import neo4j_driver
 
